@@ -6,7 +6,7 @@ Powered by machine learning models and wrapped in a clean Gradio interface, this
 
 ## 🌐 Live Demo
 
-🔗 **Try it online**: [Hugging Face Space](https://huggingface.co/spaces/Aalokhya/Diabetes-Prediction)  
+🔗 **Try it online**: 
 
 
 
@@ -60,7 +60,7 @@ This project is meant for **educational purposes**, showing how machine learning
 
 ## 👤 Author
 
-GitHub: [@aalokhya](https://github.com/aalokhya)
+GitHub:
 
 
 ## 📄 License
