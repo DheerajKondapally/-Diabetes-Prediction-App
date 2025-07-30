@@ -18,7 +18,7 @@ This project is meant for educational purposes, showing how machine learning can
 🛠️ How to Run Locally
 Clone the Repository
 
-git clone https://github.com/aalokhya/diabetes-prediction-app.git
+
 cd diabetes-prediction-app
 
 Install Requirements
